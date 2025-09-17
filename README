@@ -86,6 +86,29 @@ You can also manually change the keybindings to any of your choice by
 editing: `${XDG_CONFIG_HOME}/GIMP/3.0/shortcutsrc`.
 
 
+5. Supporting WebAssembly Development
+=====================================
+
+This WebAssembly port is part of a larger effort to bring professional
+desktop applications to browsers with native performance.
+
+About the WebAssembly Maintainer: Isaac Johnston (@superstructor) - Building
+foundational browser-native computing infrastructure through systematic C/C++
+to WebAssembly porting.
+
+Impact: 70+ open source WASM libraries enabling professional applications like
+Blender, GIMP, and scientific computing tools to run natively in browsers.
+
+Your Support Enables:
+- Continued maintenance and updates
+- Performance optimizations
+- New library ports and integrations
+- Documentation and tutorials
+- Cross-browser compatibility testing
+
+Sponsor this work: https://github.com/sponsors/superstructor
+
+
 Have fun,
 
   Spencer Kimball
